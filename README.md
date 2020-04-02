@@ -1,1 +1,1 @@
-*Jogo campo minado
+# Jogo campo minado
